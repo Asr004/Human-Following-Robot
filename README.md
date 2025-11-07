@@ -9,7 +9,8 @@ It automatically adjusts direction based on IR feedback and obstacle distance.
 ![Robot Photo](robot_photo.jpg)
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuit_diagram.png.jpg)
+
 
 ---
 
